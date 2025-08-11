@@ -16,5 +16,5 @@ deploy_docker:
       with:
         files: Release.txt
         tag_name: yep2
-        target_commitish: main
+        target_commitish: test
         make_latest: true
